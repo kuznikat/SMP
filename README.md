@@ -1,4 +1,4 @@
-#Projekt HealthDoc
+Projekt HealthDoc
 
 ![image](https://github.com/user-attachments/assets/9724e271-ffac-4ea6-ab22-4910d7e40a67)
 
